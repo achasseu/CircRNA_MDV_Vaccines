@@ -9,4 +9,4 @@ In these lines, you should indicate the files location of the vCircTrappist outp
 
 ### !!! Same remark for lines 1-3 in the R script !!!
 
-Coverages were obtained using the "samtools depth -a input.sam > output.csv" on the alignment files obtained using vCircTrappist.
+Coverages were obtained using the "samtools depth -a input.sam > output.csv" on all the alignment files.
